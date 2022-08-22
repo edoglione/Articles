@@ -1,1 +1,0 @@
-# Ground-reaction-curve
